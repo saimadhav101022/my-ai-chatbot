@@ -1,0 +1,851 @@
+
+{
+  "restaurant": {
+    "name": "Aroma Restaurant",
+    "city": "Nizamabad",
+    "state": "Telangana",
+    "country": "India",
+    "postal_code": "503003",
+    "address": "2-4, Tilak Gardens, Khaleelwadi, Nizamabad, Telangana 503003",
+    "phone": "+91 85198 15775",
+    "opening_time": "10:00 AM",
+    "closing_time": "11:00 PM",
+    "home_delivery": true,
+    "language": "English"
+  },
+
+  "currency": "INR",
+  "price_source": "Restaurant menu photographs take priority over manually provided prices.",
+  "menu": [
+
+    {
+      "name": "Chicken Hot & Sour Soup",
+      "category": "Soups",
+      "price": 140
+    },
+    {
+      "name": "Chicken Corn Soup",
+      "category": "Soups",
+      "price": 140
+    },
+    {
+      "name": "Chicken Manchow Soup",
+      "category": "Soups",
+      "price": 140
+    },
+    {
+      "name": "Veg Hot & Sour Soup",
+      "category": "Soups",
+      "price": 120
+    },
+    {
+      "name": "Veg Corn Soup",
+      "category": "Soups",
+      "price": 120
+    },
+    {
+      "name": "Veg Manchow Soup",
+      "category": "Soups",
+      "price": 120
+    },
+    {
+      "name": "Cream & Tomato Soup",
+      "category": "Soups",
+      "price": 100
+    },
+    {
+      "name": "Mutton Marag Soup",
+      "category": "Soups",
+      "price": 475,
+      "price_source": "Manually supplied"
+    },
+
+    {
+      "name": "Chicken Schezwan Noodles",
+      "category": "Noodles",
+      "price": 160
+    },
+    {
+      "name": "Chicken Noodles",
+      "category": "Noodles",
+      "price": 140
+    },
+    {
+      "name": "Egg Schezwan Noodles",
+      "category": "Noodles",
+      "price": 150
+    },
+    {
+      "name": "Veg Schezwan Noodles",
+      "category": "Noodles",
+      "price": 140
+    },
+    {
+      "name": "Egg Noodles",
+      "category": "Noodles",
+      "price": 130
+    },
+    {
+      "name": "Veg Noodles",
+      "category": "Noodles",
+      "price": 110
+    },
+
+    {
+      "name": "Paneer Majestic",
+      "category": "Veg Starters",
+      "price": 280
+    },
+    {
+      "name": "Golden Paneer",
+      "category": "Veg Starters",
+      "price": 280
+    },
+    {
+      "name": "Paneer Rampuri",
+      "category": "Veg Starters",
+      "price": 280
+    },
+    {
+      "name": "Paneer Kurkure",
+      "category": "Veg Starters",
+      "price": 280
+    },
+    {
+      "name": "Dragon Paneer",
+      "category": "Veg Starters",
+      "price": 280
+    },
+    {
+      "name": "Chilli Paneer",
+      "category": "Veg Starters",
+      "price": 240
+    },
+    {
+      "name": "Paneer 65",
+      "category": "Veg Starters",
+      "price": 300,
+      "price_source": "Manually supplied"
+    },
+    {
+      "name": "Ginger Baby Corn",
+      "category": "Veg Starters",
+      "price": 240
+    },
+    {
+      "name": "Baby Corn Manchurian",
+      "category": "Veg Starters",
+      "price": 220
+    },
+    {
+      "name": "Ginger Gobi",
+      "category": "Veg Starters",
+      "price": 180
+    },
+    {
+      "name": "Crispy Corn",
+      "category": "Veg Starters",
+      "price": 180
+    },
+    {
+      "name": "Veg Manchurian Wet",
+      "category": "Veg Starters",
+      "price": 150
+    },
+    {
+      "name": "Gobi Manchurian",
+      "category": "Veg Starters",
+      "price": 150
+    },
+    {
+      "name": "Chilli Veg",
+      "category": "Veg Starters",
+      "price": 150
+    },
+    {
+      "name": "Ginger Veg",
+      "category": "Veg Starters",
+      "price": 150
+    },
+    {
+      "name": "Veg Manchurian Dry",
+      "category": "Veg Starters",
+      "price": 100
+    },
+    {
+      "name": "Masala Papad",
+      "category": "Veg Starters",
+      "price": 40
+    },
+
+    {
+      "name": "Aroma Special Chicken",
+      "category": "Chicken Starters",
+      "price": 320
+    },
+    {
+      "name": "Pepper Chicken",
+      "category": "Chicken Starters",
+      "price": 320
+    },
+    {
+      "name": "Chicken Majestic",
+      "category": "Chicken Starters",
+      "price": 320
+    },
+    {
+      "name": "Finger Chicken",
+      "category": "Chicken Starters",
+      "price": 320
+    },
+    {
+      "name": "Dragon Chicken",
+      "category": "Chicken Starters",
+      "price": 320
+    },
+    {
+      "name": "Chicken Rampuri",
+      "category": "Chicken Starters",
+      "price": 320
+    },
+    {
+      "name": "Chilli Chicken",
+      "category": "Chicken Starters",
+      "half_price": 200,
+      "full_price": 340
+    },
+    {
+      "name": "Ginger Chicken",
+      "category": "Chicken Starters",
+      "half_price": 200,
+      "full_price": 340
+    },
+    {
+      "name": "Chicken Manchurian",
+      "category": "Chicken Starters",
+      "half_price": 180,
+      "full_price": 300
+    },
+    {
+      "name": "Chicken 65",
+      "category": "Chicken Starters",
+      "half_price": 180,
+      "full_price": 300
+    },
+    {
+      "name": "Chicken Lollipop",
+      "category": "Chicken Starters",
+      "price": 220,
+      "quantity": "4 pieces"
+    },
+    {
+      "name": "Chicken Drum Sticks",
+      "category": "Chicken Starters",
+      "price": 180,
+      "quantity": "4 pieces"
+    },
+
+    {
+      "name": "Aroma Special Mutton",
+      "category": "Mutton Starters",
+      "price": 360
+    },
+    {
+      "name": "Pepper Mutton",
+      "category": "Mutton Starters",
+      "price": 350
+    },
+    {
+      "name": "Chilli Mutton",
+      "category": "Mutton Starters",
+      "price": 350
+    },
+    {
+      "name": "Mutton 65",
+      "category": "Mutton Starters",
+      "price": 350
+    },
+
+    {
+      "name": "Pepper Prawns",
+      "category": "Sea Foods",
+      "price": 280
+    },
+    {
+      "name": "Finger Fish",
+      "category": "Sea Foods",
+      "price": 280
+    },
+    {
+      "name": "Fish Tikka",
+      "category": "Sea Foods",
+      "price": 280
+    },
+    {
+      "name": "Prawns Masala",
+      "category": "Sea Foods",
+      "price": 250
+    },
+    {
+      "name": "Golden Prawns",
+      "category": "Sea Foods",
+      "price": 250
+    },
+    {
+      "name": "Apollo Fish Curry",
+      "category": "Sea Foods",
+      "price": 250
+    },
+    {
+      "name": "Chilli Fish",
+      "category": "Sea Foods",
+      "price": 220
+    },
+    {
+      "name": "Loose Prawns",
+      "category": "Sea Foods",
+      "price": 220
+    },
+    {
+      "name": "Prawns 65 / Manchurian",
+      "category": "Sea Foods",
+      "price": 220
+    },
+
+    {
+      "name": "Chicken Manchuria",
+      "category": "Chicken Main Course",
+      "price": 360
+    },
+    {
+      "name": "Chicken Maharani",
+      "category": "Chicken Main Course",
+      "price": 360
+    },
+    {
+      "name": "Aroma Special Chicken Curry",
+      "category": "Chicken Main Course",
+      "price": 350
+    },
+    {
+      "name": "Chicken Afghani",
+      "category": "Chicken Main Course",
+      "price": 350
+    },
+    {
+      "name": "Chicken Masala",
+      "category": "Chicken Main Course",
+      "price": 350
+    },
+    {
+      "name": "Chicken Puliyal",
+      "category": "Chicken Main Course",
+      "price": 320
+    },
+    {
+      "name": "Ginger Chicken Curry",
+      "category": "Chicken Main Course",
+      "price": 320
+    },
+    {
+      "name": "Punjabi Chicken Curry",
+      "category": "Chicken Main Course",
+      "price": 320
+    },
+    {
+      "name": "Mughlai Chicken",
+      "category": "Chicken Main Course",
+      "price": 280
+    },
+    {
+      "name": "Butter Chicken",
+      "category": "Chicken Main Course",
+      "price": 280
+    },
+    {
+      "name": "Broccoli Chicken Masala",
+      "category": "Chicken Main Course",
+      "price": 280
+    },
+    {
+      "name": "Telangana Chicken Curry",
+      "category": "Chicken Main Course",
+      "price": 280
+    },
+    {
+      "name": "Chicken Mughlai",
+      "category": "Chicken Main Course",
+      "price": 280
+    },
+    {
+      "name": "Desi Chicken Curry With Bones",
+      "category": "Chicken Main Course",
+      "price": 240
+    },
+    {
+      "name": "Chicken Masala With Bones",
+      "category": "Chicken Main Course",
+      "price": 220
+    },
+    {
+      "name": "Chicken Curry With Bones",
+      "category": "Chicken Main Course",
+      "price": 200
+    },
+
+    {
+      "name": "Aroma Special Mutton Curry",
+      "category": "Mutton Main Course",
+      "price": 360
+    },
+    {
+      "name": "Mutton Afghani",
+      "category": "Mutton Main Course",
+      "price": 350
+    },
+    {
+      "name": "Punjabi Mutton",
+      "category": "Mutton Main Course",
+      "price": 350
+    },
+    {
+      "name": "Khada Mutton",
+      "category": "Mutton Main Course",
+      "price": 350
+    },
+    {
+      "name": "Mutton Kheema",
+      "category": "Mutton Main Course",
+      "price": 300
+    },
+    {
+      "name": "Mutton Mughlai",
+      "category": "Mutton Main Course",
+      "price": 280
+    },
+    {
+      "name": "Chilli Mutton Boneless",
+      "category": "Mutton Main Course",
+      "price": 280
+    },
+    {
+      "name": "Mutton Curry Boneless",
+      "category": "Mutton Main Course",
+      "price": 280
+    },
+    {
+      "name": "Mutton Kheema Fry",
+      "category": "Mutton Main Course",
+      "price": 250
+    },
+    {
+      "name": "Mutton Curry Bones",
+      "category": "Mutton Main Course",
+      "price": 250
+    },
+
+    {
+      "name": "Egg Kothapuri Curry",
+      "category": "Egg Main Course",
+      "price": 220
+    },
+    {
+      "name": "Ginger Egg Curry",
+      "category": "Egg Main Course",
+      "price": 200
+    },
+    {
+      "name": "Egg Masala",
+      "category": "Egg Main Course",
+      "price": 180
+    },
+    {
+      "name": "Egg Bhurji",
+      "category": "Egg Main Course",
+      "price": 180
+    },
+    {
+      "name": "Chilli Egg Fry",
+      "category": "Egg Main Course",
+      "price": 180
+    },
+    {
+      "name": "Egg 65",
+      "category": "Egg Main Course",
+      "price": 180
+    },
+    {
+      "name": "Egg Manchurian",
+      "category": "Egg Main Course",
+      "price": 170
+    },
+    {
+      "name": "Egg Curry",
+      "category": "Egg Main Course",
+      "price": 170
+    },
+    {
+      "name": "Egg Fry",
+      "category": "Egg Main Course",
+      "price": 150
+    },
+
+    {
+      "name": "Curd Rice",
+      "category": "Mini Items",
+      "price": 80
+    },
+    {
+      "name": "Special Gravy",
+      "category": "Mini Items",
+      "price": 80
+    },
+    {
+      "name": "White Rice",
+      "category": "Mini Items",
+      "price": 40
+    },
+    {
+      "name": "Plain Curd",
+      "category": "Mini Items",
+      "price": 40
+    },
+
+    {
+      "name": "Aloo Parotta / Stuff",
+      "category": "Roti",
+      "price": 80
+    },
+    {
+      "name": "Garlic Naan",
+      "category": "Roti",
+      "price": 75
+    },
+    {
+      "name": "Butter Naan",
+      "category": "Roti",
+      "price": 60
+    },
+    {
+      "name": "Parotta",
+      "category": "Roti",
+      "price": 60
+    },
+    {
+      "name": "Plain Naan",
+      "category": "Roti",
+      "price": 50
+    },
+    {
+      "name": "Butter Roti",
+      "category": "Roti",
+      "price": 35
+    },
+    {
+      "name": "Rumali Roti",
+      "category": "Roti",
+      "price": 30
+    },
+    {
+      "name": "Tandoori Roti",
+      "category": "Roti",
+      "price": 25
+    },
+
+    {
+      "name": "Tandoori Biryani",
+      "category": "Biryani",
+      "price": 320
+    },
+    {
+      "name": "Chicken 65 Biryani",
+      "category": "Biryani",
+      "price": 300
+    },
+    {
+      "name": "Chicken Tikka Biryani",
+      "category": "Biryani",
+      "price": 300
+    },
+    {
+      "name": "Kheema Biryani",
+      "category": "Biryani",
+      "price": 300
+    },
+    {
+      "name": "Mutton Biryani",
+      "category": "Biryani",
+      "price": 350
+    },
+    {
+      "name": "Mutton Biryani BL",
+      "category": "Biryani",
+      "half_price": 220,
+      "full_price": 400
+    },
+    {
+      "name": "Prawns Biryani",
+      "category": "Biryani",
+      "price": 350
+    },
+    {
+      "name": "Fish Biryani",
+      "category": "Biryani",
+      "price": 340
+    },
+    {
+      "name": "Kaju Biryani",
+      "category": "Biryani",
+      "price": 340
+    },
+    {
+      "name": "Kaju Paneer Biryani",
+      "category": "Biryani",
+      "price": 340
+    },
+    {
+      "name": "Chicken Biryani BL",
+      "category": "Biryani",
+      "price": 340
+    },
+    {
+      "name": "Chicken Pulao",
+      "category": "Biryani",
+      "price": 340
+    },
+    {
+      "name": "Chicken Biryani",
+      "category": "Biryani",
+      "half_price": 180,
+      "full_price": 300
+    },
+    {
+      "name": "Paneer Biryani",
+      "category": "Biryani",
+      "price": 250
+    },
+    {
+      "name": "Mushroom Biryani",
+      "category": "Biryani",
+      "price": 250
+    },
+    {
+      "name": "Veg Pulao",
+      "category": "Biryani",
+      "price": 250
+    },
+    {
+      "name": "Veg Biryani",
+      "category": "Biryani",
+      "half_price": 150,
+      "full_price": 250
+    },
+    {
+      "name": "Egg Biryani",
+      "category": "Biryani",
+      "half_price": 150,
+      "full_price": 240
+    },
+    {
+      "name": "Plain Biryani Rice",
+      "category": "Biryani",
+      "price": 150
+    },
+
+    {
+      "name": "Butter Scotch Scoop",
+      "category": "Ice Creams",
+      "price": 60
+    },
+    {
+      "name": "Vanilla Scoop",
+      "category": "Ice Creams",
+      "price": 40
+    },
+    {
+      "name": "Cassata Ice Cream",
+      "category": "Ice Creams",
+      "price": 60
+    },
+    {
+      "name": "Maha Sundaes Jafrem Badam",
+      "category": "Ice Creams",
+      "price": 60
+    },
+    {
+      "name": "Maha Sundaes Chocolate",
+      "category": "Ice Creams",
+      "price": 60
+    },
+    {
+      "name": "Sarde",
+      "category": "Ice Creams",
+      "price": 30
+    },
+    {
+      "name": "Sandwich Chocolate Vanilla",
+      "category": "Ice Creams",
+      "price": 30
+    },
+    {
+      "name": "Choco Chips Big",
+      "category": "Cones",
+      "price": 50
+    },
+    {
+      "name": "Choco Cookies Big",
+      "category": "Cones",
+      "price": 50
+    },
+    {
+      "name": "Butterscotch Cone",
+      "category": "Cones",
+      "price": 50
+    },
+    {
+      "name": "Roasted Badam Cone",
+      "category": "Cones",
+      "price": 50
+    },
+    {
+      "name": "Fruit Salad Butterscotch",
+      "category": "Fruit Salads",
+      "price": 140
+    },
+    {
+      "name": "Fruit Salad Vanilla",
+      "category": "Fruit Salads",
+      "price": 110
+    },
+    {
+      "name": "Matka Kulfi",
+      "category": "Desserts",
+      "price": 60
+    },
+    {
+      "name": "Double Ka Meeta",
+      "category": "Desserts",
+      "price": 120
+    },
+    {
+      "name": "Thums Up",
+      "category": "Beverages",
+      "price": 20
+    },
+    {
+      "name": "Sprite",
+      "category": "Beverages",
+      "price": 20
+    }
+  ],
+
+  "family_packs": [
+    {
+      "name": "Aroma Family Pack",
+      "price": 850
+    },
+    {
+      "name": "Tandoori Family Pack",
+      "price": 850
+    },
+    {
+      "name": "Fish Family Pack",
+      "price": 750
+    },
+    {
+      "name": "Mutton Family Pack",
+      "price": 750
+    },
+    {
+      "name": "Chicken Family Pack",
+      "price": 650
+    },
+    {
+      "name": "Veg Family Pack",
+      "price": 550
+    },
+    {
+      "name": "Egg Family Pack",
+      "price": 550
+    }
+  ],
+
+  "jumbo_packs": [
+    {
+      "name": "Prawns Jumbo Pack",
+      "price": 950
+    },
+    {
+      "name": "Tandoori Jumbo Pack",
+      "price": 900
+    },
+    {
+      "name": "Mutton Jumbo Pack",
+      "price": 900
+    },
+    {
+      "name": "Paneer Jumbo Pack",
+      "price": 850
+    },
+    {
+      "name": "Chicken Jumbo Pack",
+      "price": 800
+    },
+    {
+      "name": "Veg Jumbo Pack",
+      "price": 700
+    },
+    {
+      "name": "Egg Jumbo Pack",
+      "price": 700
+    }
+  ],
+
+  "services": {
+    "home_delivery": true,
+    "takeaway": false,
+    "dine_in": true,
+    "table_reservations": false,
+    "online_payment": false,
+    "parking": false,
+    "party_bookings": false
+  },
+
+  "faqs": [
+    {
+      "question": "Where is Aroma Restaurant located?",
+      "answer": "Aroma Restaurant is located at 2-4, Tilak Gardens, Khaleelwadi, Nizamabad, Telangana 503003."
+    },
+    {
+      "question": "What are the restaurant timings?",
+      "answer": "Aroma Restaurant is open from 10:00 AM to 11:00 PM."
+    },
+    {
+      "question": "Do you provide home delivery?",
+      "answer": "Yes, Aroma Restaurant provides home delivery."
+    },
+    {
+      "question": "What is the contact number?",
+      "answer": "You can contact Aroma Restaurant at +91 85198 15775."
+    }
+  ],
+
+  "policies": {
+    "order_cancellation": "Please contact the restaurant directly for cancellation information.",
+    "refund": "Please contact the restaurant directly for refund information.",
+    "reservations": "Please contact the restaurant directly for reservation information."
+  },
+
+  "ai_instructions": [
+    "You are CAM_VISION, the AI customer support assistant for Aroma Restaurant in Nizamabad.",
+    "Use restaurant_knowledge.json as the source of truth for restaurant-related questions.",
+    "Answer menu questions using the exact item names and prices stored in this file.",
+    "Always mention half and full prices separately when both are available.",
+    "Do not invent food items, prices, offers, services or restaurant policies.",
+    "If a customer asks about an item that is not listed, politely explain that it is not in the available menu.",
+    "If an answer is not available, recommend contacting the restaurant at +91 85198 15775.",
+    "Respond in English.",
+    "Use polite, friendly and professional language.",
+    "For questions unrelated to Aroma Restaurant, answer normally."
+  ]
+}
